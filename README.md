@@ -1,4 +1,4 @@
-<h1> HTML, CSS e JavaScript </h1>
+<h1> HTML, CSS</h1>
 
 ```
 Exercicios Realizados com HTMl, CSS
