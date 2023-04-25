@@ -1,0 +1,36 @@
+html {
+    background-image: url(../JavaScript/colinas-gramadas-com-flores-e-montanhas.jpg);
+    background-position: center;
+}
+
+.box {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inside {
+    background-color: azure;
+    opacity: 75%;
+    width: 650px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form label {
+    margin-top: 15%;
+    margin-bottom: 8%;
+	display: block;
+	font-size: 20px;
+}
+
+form input {
+	display: block;
+    width: 120%;
+    margin-bottom: 18%;
+}
+
