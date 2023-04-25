@@ -1,5 +1,5 @@
-<h1> JavaScript </h1>
+<h1> HTML, CSS e JavaScript </h1>
 
 ```
-Exercicios Realizados em JavaScript
+Exercicios Realizados com HTMl, CSS e JavaScript
 ```
